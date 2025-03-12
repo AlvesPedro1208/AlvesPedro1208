@@ -9,11 +9,15 @@
 
 #
 
-### Connect with me!
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=ffffff&color:000)](mailto:pedroalvesz1208@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=ffffff&color:000)](https://www.linkedin.com/in/pedro-henrique-alves-8050371b7)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=ffffff&color:000)](https://www.instagram.com/pedroalvesz1208/)
 
+<div align="center" >
+
+
+  
+### Connect with me!
+  <a href="https://www.linkedin.com/in/pedro-henrique-alves-8050371b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pedroalvesz1208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.instagram.com/pedroalvesz1208/"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 #
 
 ### Main skills:
@@ -33,6 +37,6 @@
 </picture>
 
 #
-
+<div/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=353a50&height=120&section=footer"/>
 
